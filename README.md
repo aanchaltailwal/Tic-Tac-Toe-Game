@@ -20,7 +20,6 @@ git clone https://github.com/aanchaltailwal/Tic-Tac-Toe-Game
 cd tic-tac-toe-game
 3. Run the game:
 python tic_tac_toe.py
-
 4. Follow the on-screen instructions to play the game.
 
 ## Game Rules
@@ -28,4 +27,6 @@ python tic_tac_toe.py
 - The player who successfully places three of their marks in a horizontal, vertical, or diagonal row wins.
 - The game ends in a draw if all spots are filled without a winner.
 
+## Contributing
+Contributions are not currently accepted for this project as it is intended as a simple learning exercise.
 
