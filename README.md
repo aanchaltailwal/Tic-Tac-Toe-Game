@@ -15,7 +15,7 @@ and it follows the standard rules of Tic Tac Toe.
 ## How to Play
 
 1. Clone the repository:
-git clone https://github.com/your-username/tic-tac-toe-game.git
+git clone https://github.com/aanchaltailwal/Tic-Tac-Toe-Game
 2. Navigate to the project directory:
 cd tic-tac-toe-game
 3. Run the game:
